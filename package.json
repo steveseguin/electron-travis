@@ -80,8 +80,8 @@
     ]
   },
   "devDependencies": {
-    "electron": "^5.0.1",
-    "electron-builder": "^20.40.2",
+    "electron": "^28.3.2",
+    "electron-builder": "^26.0.12",
     "rimraf": "^2.6.3",
     "run-script-os-fix": "^1.0.4"
   },
